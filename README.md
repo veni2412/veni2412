@@ -1,10 +1,7 @@
-## 👋 Hi, I’m Veena
+## Hallo, I’m Veena
 
-🎓 Computer Science student  
-🧠 Curious about systems, software, and how things work under the hood  
+I am a computer science student who is primarily intereested in low level systems software, backend development and cybersecurity. Always open to collaborating on projects that pique my interest!
 
-- 🔭 Currently exploring: systems programming & backend development   
-- 🤝 Open to: anything that piques my interest!    
-- 📫 Reach me at: veena.ramadas@research.iiit.ac.in
+Reach me at: veena.ramadas@research.iiit.ac.in
 
 > “I find quiet joy in losing myself between the pages of a good book.”
