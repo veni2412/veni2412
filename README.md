@@ -1,6 +1,6 @@
 ## Hallo, I’m Veena
 
-I am a computer science student who is primarily intereested in low level systems software, backend development and cybersecurity. Always open to collaborating on projects that pique my interest!
+I am a student who is currently pursuing BTech + MS in Geospatial Technology at IIIT-H. I am primarily intereested in low level systems software, backend development, cybersecurity and astronomy. Always open to collaborating on projects that pique my interest!
 
 Reach me at: veena.ramadas@research.iiit.ac.in
 
